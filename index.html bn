@@ -1,0 +1,26 @@
+<h1> MY SUMMER  </h1>
+<h2> 2024/2025</h1>
+    <style>
+        h2 {margin-left: 10%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: size 3em
+}
+    </style>
+<p> my summer  </p>
+<h1>somethings i did</h1>
+<ul> 
+    <li> i went to wanaka for new years </li>
+    <li> i was in the sun </li>
+    <li> i swam </li>
+</ul>
+
+<style>
+    h1 {
+      background: rgb(58, 58, 97);
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 3em;
+      color: rgb(66, 131, 188);
+    }
+</style>
+<a href="https://norsecraft.co.uk/products/handmade-viking-berserker-battle-axe">free money here</a>
+
